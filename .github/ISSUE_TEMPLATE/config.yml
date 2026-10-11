@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/rec-farm/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not as an issue.
+  - name: Documentation
+    url: https://rec.farm
+    about: Quickstarts and docs for every tool.
