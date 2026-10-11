@@ -10,13 +10,13 @@
 Self-hosted, open-source building blocks for your apps. Each one does one job, keeps its data on
 your server, and signs people in over standard OpenID Connect.
 
-| Tool | What it does | License |
-| --- | --- | --- |
-| [**Handstamp**](https://rec.farm/handstamp/) | Passwordless OpenID Connect for your apps. | MIT |
-| [**Valtr**](https://rec.farm/valtr/) | Self-hosted secrets for your apps. | MIT |
-| [**StillUp**](https://rec.farm/stillup/) | Open-source API monitoring. Know before your users do. | MIT |
-| [**Paramtune**](https://rec.farm/paramtune/) | Platform schemas and feature configuration. | MIT |
+| Tool | What it does |
+| --- | --- |
+| [**Handstamp**](https://rec.farm/handstamp/) | Passwordless OpenID Connect for your apps. |
+| [**Valtr**](https://rec.farm/valtr/) | Self-hosted secrets for your apps. |
+| [**StillUp**](https://rec.farm/stillup/) | Open-source API monitoring. Know before your users do. |
+| [**Paramtune**](https://rec.farm/paramtune/) | Platform schemas and feature configuration. |
 
-Docs and quickstarts for every tool live at **[rec.farm](https://rec.farm)**.
+All of them are MIT-licensed. Docs and quickstarts for every tool live at **[rec.farm](https://rec.farm)**.
 
 <sub>Made by R.E.C. (Rodrigo Espinosa Curbelo) · RECIAM SAS</sub>
