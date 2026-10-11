@@ -12,9 +12,9 @@ your server, and signs people in over standard OpenID Connect.
 
 | Tool | What it does | License |
 | --- | --- | --- |
-| [**Handstamp**](https://rec.farm/handstamp/) | Passwordless OpenID Connect for your apps. | Apache-2.0 |
-| [**Valtr**](https://rec.farm/valtr/) | Self-hosted secrets for your apps. | Apache-2.0 |
-| [**StillUp**](https://rec.farm/stillup/) | Open-source API monitoring. Know before your users do. | Apache-2.0 |
+| [**Handstamp**](https://rec.farm/handstamp/) | Passwordless OpenID Connect for your apps. | MIT |
+| [**Valtr**](https://rec.farm/valtr/) | Self-hosted secrets for your apps. | MIT |
+| [**StillUp**](https://rec.farm/stillup/) | Open-source API monitoring. Know before your users do. | MIT |
 | [**Paramtune**](https://rec.farm/paramtune/) | Platform schemas and feature configuration. | MIT |
 
 Docs and quickstarts for every tool live at **[rec.farm](https://rec.farm)**.
